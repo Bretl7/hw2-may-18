@@ -165,6 +165,7 @@ namespace hw2_may_18
 				string choice = Console.ReadLine().Trim().ToLower();
 				if (choice == "c") isDone = true;
 
+				// Options for user
 				switch(choice)
                 {
 					case "a":
